@@ -1,0 +1,47 @@
+2025-08-09 21:19:00,896 - INFO - haciendo request de datos a la api https://dragonball-api.com/api/characters
+2025-08-09 21:19:00,899 - DEBUG - Starting new HTTPS connection (1): dragonball-api.com:443
+2025-08-09 21:19:01,458 - DEBUG - https://dragonball-api.com:443 "GET /api/characters HTTP/11" 200 6197
+2025-08-09 21:19:01,459 - INFO - Data obetenida de la API, se procede a almacenar en un json
+2025-08-09 21:19:01,459 - INFO - data guardada en archivo json con exito
+2025-08-09 21:19:01,459 - INFO - guardando intems de la api en una lista
+2025-08-09 21:19:01,459 - INFO - creando cola para el torneo de poder
+2025-08-09 21:19:01,460 - INFO - agregando personajes a la cola del torneo de poder
+2025-08-09 21:19:01,460 - INFO - personajes agregados a la cola con exito
+2025-08-09 21:19:01,461 - INFO - creando dos colas nuevas para añadir las mitades de la cola principal y hacer los enfrentamientos
+2025-08-09 21:19:01,461 - INFO - dividiendo la cola en dos mitades y almacenando el contenido en las nuevas colas
+2025-08-09 21:19:01,462 - INFO - creando pila para rastrear el poder de los personajes
+2025-08-09 21:19:01,462 - INFO - declarando poder objetivo a buscar
+2025-08-09 21:19:01,462 - INFO - creando una pila para rastrear el poder de los personajes
+2025-08-09 21:19:01,463 - INFO - pila creada con exito
+2025-08-09 21:19:01,463 - INFO - Saiyan añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Saiyan añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Namekian añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Human añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,464 - INFO - Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,465 - INFO - Android añadido a la bolsa
+2025-08-09 21:19:01,465 - INFO - Saiyan añadido a la bolsa
+2025-08-09 21:19:01,465 - INFO - creando emparejamiento de personajes para el torneo de poder
+2025-08-09 21:19:01,465 - INFO - Enfrentamiento: Goku vs Zarbon
+2025-08-09 21:19:01,466 - INFO - Enfrentamiento: Vegeta vs Dodoria
+2025-08-09 21:19:01,467 - INFO - Enfrentamiento: Piccolo vs Ginyu
+2025-08-09 21:19:01,469 - INFO - Enfrentamiento: Bulma vs Celula
+2025-08-09 21:19:01,470 - INFO - Enfrentamiento: Freezer vs Gohan
+2025-08-09 21:19:01,472 - INFO -  Goku añadido a la pila con poder 60000000y sobre escrito en archivo json
+2025-08-09 21:19:01,473 - INFO -  Vegeta añadido a la pila con poder 54000000y sobre escrito en archivo json
+2025-08-09 21:19:01,475 - INFO -  Piccolo añadido a la pila con poder 2000000y sobre escrito en archivo json
+2025-08-09 21:19:01,483 - INFO -  Celula añadido a la pila con poder 250000000y sobre escrito en archivo json
+2025-08-09 21:19:01,484 - INFO -  Gohan añadido a la pila con poder 45000000y sobre escrito en archivo json
+2025-08-09 21:19:01,485 - INFO - poderes de los personajes rastreados y guardados en rastreoPoder.json
+2025-08-09 21:19:01,485 - INFO -  Saiyan añadido a la bolsa
+2025-08-09 21:19:01,486 - INFO -  Saiyan añadido a la bolsa
+2025-08-09 21:19:01,487 - INFO -  Namekian añadido a la bolsa
+2025-08-09 21:19:01,487 - INFO -  Human añadido a la bolsa
+2025-08-09 21:19:01,488 - INFO -  Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,489 - INFO -  Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,489 - INFO -  Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,490 - INFO -  Frieza Race añadido a la bolsa
+2025-08-09 21:19:01,491 - INFO -  Android añadido a la bolsa
+2025-08-09 21:19:01,492 - INFO -  Saiyan añadido a la bolsa
